@@ -1,13 +1,13 @@
-#### Xibalba Ddos
+#### Xibalba Ddos by: Vulk4n0
 
 #### Esta herramienta fue creada por vulk4n0 para la c0lm3n4, una sencilla interfaz
-y comoda función. ES una herramienta de denegación de servicios.
+ #### y comoda función. ES una herramienta de denegación de servicios.
 
 #### Instalación:
 
-####sudo su
+#### sudo su
 
-####git clone https://github.com/Lac0lm3n4/XibalbaDdos.git
+#### git clone https://github.com/Lac0lm3n4/XibalbaDdos.git
 
 #### cd XibalbaDdos
 
